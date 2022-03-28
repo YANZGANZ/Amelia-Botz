@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
+     "namalu" : "𝒀𝑨𝑵𝒁",
+     "nomerlu": "48699532476",
      "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
+     "nomerbot": "48729759866",
      "gender" : "Female",
-     "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
+     "copyright" : "𝒀𝑨𝑵𝒁",
+     "namaDocument": "𝒀𝑨𝑵𝒁 Botz",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "085156137901",
-     "Gopay" : "085156137901",
-     "Dana" : "085156137901",
-     "Ovo" : "085156137901"
+     "Shopee" : "No counter deck🥴🤙",
+     "Gopay" : "pm dek😛👌",
+     "Dana" : "No counter dek🥴🤙",
+     "Ovo" : "No counter dek😛🤙"
      },
      
      "setPrefix": {
@@ -61,7 +61,7 @@
      "setWelcome": {
      "autoWelcome": false,
      "welcomeType": "type3",
-     "background": "https://tinyurl.com/yxvl8h3a"
+     "background": "https://telegra.ph/file/2a7dd6ac0f2f1894ca007.jpg"
      },    
      
      "setMenu": "document",    
