@@ -5,10 +5,10 @@ return`
 *│* Bantu Developer ngembangin bot ini
 *│* dengan donasi seiklasnya 🙂
 *│*
-*│* Shopee : 085156137901
-*│* Gopay : 085156137901
-*│* Dana : 085156137901
-*│* Ovo : 085156137901
+*│* Shopee : 😛👌
+*│* Gopay : pc gw gan🙏
+*│* Dana : pc saya😌👌
+*│* Ovo : rill cuyy😛🤙
 *│*
 *│* Makasih yang udah donasi
 *│* dan bantu ngembangin bot ini
